@@ -13,4 +13,7 @@ This is a First Commit From Branch dev1
 This is a Second Commit From Branch dev1
 
 This is a First Rebase Commit From Master
+
 Added First Rebase commit from Branch Dev1
+
+Added Second Rebase commit from Branch Dev1
